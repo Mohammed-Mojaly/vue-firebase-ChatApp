@@ -1,4 +1,8 @@
-# vue-chat
+# vue chat app
+simple vue chat app by vue 3 and firebase databese.
+
+<p align="center"><img src="https://github.com/Mohammed-Mojaly/vue-firebase-ChatApp/blob/master/screenshot/1.png"></p>
+<p align="center"><img src="https://github.com/Mohammed-Mojaly/vue-firebase-ChatApp/blob/master/screenshot/2.png"></p>
 
 ## Project setup
 ```
